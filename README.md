@@ -11,3 +11,4 @@
 
 2019年11月28日~12月6日涨停板分布图
 ![2019年11月28日~12月6日涨停板分布图](https://github.com/tailailcc/stock-maniac/blob/master/2019-11-28.png)
+![2019年三季度机构流通股](https://github.com/tailailcc/stock-maniac/blob/master/2019%E6%9C%BA%E6%9E%84%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%B5%81%E9%80%9A%E8%82%A11224.png)
