@@ -9,4 +9,4 @@
 
 如果你对这个程序感兴趣，任何想法和意见都可以发送到835346610@qq.com，作者将认真阅读与回复。
 
-https://github.com/tailailcc/stock-maniac/blob/master/2019-11-28.png
+![2019年三季度机构持股及变动](https://github.com/tailailcc/stock-maniac/blob/master/2019-11-28.png)
