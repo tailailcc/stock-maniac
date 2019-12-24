@@ -8,3 +8,5 @@
 这是一个可与通用股软联动的软件；
 
 如果你对这个程序感兴趣，任何想法和意见都可以发送到835346610@qq.com，作者将认真阅读与回复。
+
+https://github.com/tailailcc/stock-maniac/blob/master/2019-11-28.png
