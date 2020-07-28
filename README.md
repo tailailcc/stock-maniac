@@ -18,6 +18,8 @@
 
 如果你对这个程序感兴趣，请将交流意见发送到835346610@qq.com，我将认真阅读与回复。
 
+整体概览图
+![整体概览图](https://github.com/tailailcc/stock-maniac/blob/master/whole.png)
 
 2019年11月28日~12月6日涨停板分布图
 ![2019年11月28日~12月6日涨停板分布图](https://github.com/tailailcc/stock-maniac/blob/master/2019-11-28.png)
