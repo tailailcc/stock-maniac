@@ -16,7 +16,7 @@
 
 股票很简单，简单到只需做好两件事，交易正确的股票，正确地交易股票。
 
-如果你对这个程序感兴趣，请将交流意见发送到835346610@qq.com，我将认真阅读与回复。
+如果你对这个程序感兴趣，请将交流意见发送到lcclcq@sina.com，我将认真阅读与回复。
 
 整体概览图
 ![整体概览图](https://github.com/tailailcc/stock-maniac/blob/master/whole.png)
